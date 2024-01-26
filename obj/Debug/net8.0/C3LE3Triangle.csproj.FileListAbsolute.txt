@@ -1,0 +1,14 @@
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\obj\Debug\net8.0\C3LE3Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\obj\Debug\net8.0\C3LE3Triangle.AssemblyInfoInputs.cache
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\obj\Debug\net8.0\C3LE3Triangle.AssemblyInfo.cs
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\obj\Debug\net8.0\C3LE3Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\bin\Debug\net8.0\C3LE3Triangle.exe
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\bin\Debug\net8.0\C3LE3Triangle.deps.json
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\bin\Debug\net8.0\C3LE3Triangle.runtimeconfig.json
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\bin\Debug\net8.0\C3LE3Triangle.dll
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\bin\Debug\net8.0\C3LE3Triangle.pdb
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\obj\Debug\net8.0\C3LE3Triangle.dll
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\obj\Debug\net8.0\refint\C3LE3Triangle.dll
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\obj\Debug\net8.0\C3LE3Triangle.pdb
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\obj\Debug\net8.0\C3LE3Triangle.genruntimeconfig.cache
+C:\Users\Cecily Holland\source\repos\C3LE3Triangle\obj\Debug\net8.0\ref\C3LE3Triangle.dll
